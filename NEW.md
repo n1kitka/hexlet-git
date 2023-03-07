@@ -1,1 +1,0 @@
-Third lesson hexlet
